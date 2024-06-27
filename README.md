@@ -11,13 +11,13 @@ This capstone project is a website that interact with an API to to send and reci
 We have the home page with all of its coresponding files to go with it while the other pages that are in folders with thier files in hand.
 As well as a global CSS file and a auth.js file to help with site wide styling on certian objects and code to help make sure the user is logged to access the site.
 
-1.index.html
-2.landing.css
-3.landing.js
-4.global.css
-5.auth.js
+1. index.html
+2. landing.css
+3. anding.js
+4. global.css
+5. auth.js
 
-##registration folder
+## registration folder
 
 1.index.html
 2.register.css
