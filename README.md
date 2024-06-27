@@ -5,7 +5,7 @@ Don't forget to read the [*MicroblogLite* API docs](http://microbloglite.us-east
 Practice and experimentation provide experience, and experience provides confidence.
 
 
-#Microblog Project by Alec 
+# Microblog Project by Alec 
 
 This capstone project is a website that interact with an API to to send and recieve data to display or create posts.
 We have the home page with all of its coresponding files to go with it while the other pages that are in folders with thier files in hand.
@@ -23,19 +23,19 @@ As well as a global CSS file and a auth.js file to help with site wide styling o
 2.register.css
 3.register.js
 
-##posts folder
+## posts folder
 
 1.index.html
 2.posts.css
 3.posts.js
 
-##profile folder
+## profile folder
 
 1.index.html
 2.profile.css
 3.profile.js
 
-##Technolgies Used 
+## Technolgies Used 
 
 The technolgies used in this project include;
 
