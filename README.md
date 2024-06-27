@@ -19,9 +19,9 @@ As well as a global CSS file and a auth.js file to help with site wide styling o
 
 ## registration folder
 
-1.index.html
-2.register.css
-3.register.js
+1. index.html
+2. register.css
+3. register.js
 
 ## posts folder
 
@@ -44,7 +44,7 @@ The technolgies used in this project include;
 * Javascript
 * Bootstrap
 
-* The Landing Page 
+## The Landing Page 
 
 The landing page or the home page is where the user is greeted login to access the site. If the user had not yet made an account there is button that redirects them 
 to the registration page where they can make an account. As well as a footer with socials links 
@@ -53,7 +53,7 @@ to the registration page where they can make an account. As well as a footer wit
 2. login button 
 3. register button 
 
-* Register Page 
+## Register Page 
 
 The register page is similar to the loggin page but it's simply where people who dont have and account are redirected to make one. They must enter their full name, username and lastly a password to secure thier account.
 
@@ -61,7 +61,7 @@ The register page is similar to the loggin page but it's simply where people who
 2. Input field for full name 
 3. Input field for password 
 
-* Posts Page 
+## Posts Page 
 
 This page is where the user is greeted with all the other users are posting comments and well as thier own. They can see who made the post, what they said and lastly what time it was posted.
 At the top of the page is navbar where they can swtich from the posts page and thier profile where they can create posts themselfs. Also to the top right of the page is a logout page if they wish to exit the site.
@@ -70,7 +70,7 @@ At the top of the page is navbar where they can swtich from the posts page and t
 2. Navbar to swtich from pages
 3. Logout button 
 
-* Profile page 
+## Profile page 
 
 This page is where the user has a textfeild for where they can write out their thoughts to the wall and when they are ready to share they can click on the create post button. 
 Then are redirected to the posts page to see what they created it as well as others posts. Also in the profile also inlcudes the navbar and the logout button.
